@@ -1,1 +1,2 @@
-# Aulas_POO
+# POO
+Repositório destinado as aulas de POO
